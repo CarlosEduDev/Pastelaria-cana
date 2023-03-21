@@ -1,0 +1,65 @@
+body {
+   background: rgb(98, 122, 50);
+}
+#title {
+    text-align: center;
+    font-style: oblique;
+    color: rgb(223, 223, 68);
+    font-size: 28px;
+}
+.fotocana {
+    border-radius: 20px;
+}
+.intro {
+    text-align: center;
+    font-style: normal;
+ 
+}
+.Alogo {
+    margin-right:18px;
+    border-radius:5px;
+}
+.subtitle {
+    font-size: 20px;
+    color:rgb(211, 209, 209);
+}
+.texto {
+    font-size: 18px;
+    font-style:normal
+}
+.outrotext {
+    font-size: 18px;
+    text-decoration: underline;
+}
+.contato {
+    text-align: center;
+    font-size: 17px;
+}
+.rodape {
+   color:white;
+    font-size: 16px;
+}
+@media screen and (min-width: 375px) {
+    .all {
+        width: 100%;
+        max-width:1440px;
+        min-height: 667;
+    }
+}
+.pastele {
+    width: auto;
+    margin:auto;
+    height: 250px;
+}
+.outropastel {
+    width: auto;
+    margin:auto;
+    height: 250px;
+    padding: 5px;
+}
+
+.fim {
+    font-size: 18px;
+    font-style: normal;
+    color: blue;
+}
